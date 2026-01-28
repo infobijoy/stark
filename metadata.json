@@ -1,0 +1,7 @@
+{
+  "name": "Stark Bag Industries ERP",
+  "description": "A modernized Enterprise Resource Planning system for Stark Bag Industries Ltd. featuring a sleek dashboard, comprehensive module management, and an integrated Gemini AI assistant for business insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
